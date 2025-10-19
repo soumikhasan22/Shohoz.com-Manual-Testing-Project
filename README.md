@@ -27,13 +27,14 @@ Testing was performed manually using well-defined **test cases**, **bug reports*
 📂 Folder Structure
 
 
-Folder / File	Description
-SHOHOZ.COM_Full_ManualTesting_Project.xlsx	All-in-one Excel project file
-/test plan/	Contains the test plan document
-/test case/	Contains test case files
-/bug report/	Bug reports with issue details
-/test summary report/	Final summary report
-/test metrics/	Metrics like pass rate and defect density
+| Folder / File | Description |
+|----------------|-------------|
+| `SHOHOZ.COM_Full_ManualTesting_Project.xlsx` | All-in-one Excel project file |
+| `/test plan/` | Contains the test plan document |
+| `/test case/` | Contains test case files |
+| `/bug report/` | Bug reports with issue details |
+| `/test summary report/` | Final summary report |
+| `/test metrics/` | Metrics like pass rate and defect density |
 
 
 
