@@ -26,24 +26,14 @@ Testing was performed manually using well-defined **test cases**, **bug reports*
 
 📂 Folder Structure
 
-Shohoz.com-Manual-Testing-Project/
-│
-├── Test Plan/
-│ └── Shohoz_Test_Plan.xlsx
-│
-├── Test Cases/
-│ └── Shohoz_Test_Cases.xlsx
-│
-├── Bug Report/
-│ └── Shohoz_Bug_Report.xlsx
-│
-├── Test Summary Report/
-│ └── Shohoz_Test_Summary.xlsx
-│
-├── Test Metrics/
-│ └── Shohoz_Test_Metrics.xlsx
-│
-└── README.md
+
+Folder / File	Description
+SHOHOZ.COM_Full_ManualTesting_Project.xlsx	All-in-one Excel project file
+/test plan/	Contains the test plan document
+/test case/	Contains test case files
+/bug report/	Bug reports with issue details
+/test summary report/	Final summary report
+/test metrics/	Metrics like pass rate and defect density
 
 
 
