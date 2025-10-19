@@ -65,6 +65,7 @@ A.B.M. Mahmudul Hasan (Soumik)
 
 
 📜 License
+
 This project is created for **educational and portfolio** purposes.  
 All rights of the Shohoz.com website belong to their respective owners.
 
