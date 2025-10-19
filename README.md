@@ -1,20 +1,20 @@
-# 🚌 Shohoz.com Manual Testing Project
+🚌 Shohoz.com Manual Testing Project
 
 This project contains the complete **manual testing documentation** for [Shohoz.com](https://www.shohoz.com), a popular online ticket booking platform in Bangladesh.  
 It covers functional testing of major modules such as Registration, Login, Password Recovery, Bus Search, and Ticket Booking.
 
----
 
-## 📋 Project Overview
+
+ 📋 Project Overview
 
 The goal of this project is to validate that all critical functionalities of **Shohoz.com** work correctly and provide a smooth user experience.  
 Testing was performed manually using well-defined **test cases**, **bug reports**, and **metrics** to ensure software quality and reliability.
 
----
 
-## 🧠 Test Scope
 
-### 🔹 Modules Covered
+🧠 Test Scope
+
+🔹 Modules Covered
 - **Registration**
 - **Login**
 - **Forgot Password**
@@ -22,9 +22,9 @@ Testing was performed manually using well-defined **test cases**, **bug reports*
 - **Bus Search Results (Filters, Sorting)**
 - **Bus Ticket Booking**
 
-  ---
+  
 
-## 📂 Folder Structure
+📂 Folder Structure
 
 Shohoz.com-Manual-Testing-Project/
 │
@@ -45,24 +45,24 @@ Shohoz.com-Manual-Testing-Project/
 │
 └── README.md
 
----
 
-## 🧪 Test Deliverables
+
+🧪 Test Deliverables
 - ✅ Test Plan  
 - ✅ Test Case Document  
 - ✅ Bug Report  
 - ✅ Test Summary Report  
 - ✅ Test Metrics Sheet  
 
----
 
-## 📈 Key Highlights
+
+📈 Key Highlights
 - Covered **end-to-end user journey**: Registration → Ticket Search → Booking → Payment Flow.
 - Applied both **positive** and **negative** test scenarios.
 - Verified **form validation**, **filters**, **sorting**, and **field dependency** behaviors.
 - Ensured **data integrity** and **error handling** across modules.
 
----
+
 
 👤 Author / Contact
 
@@ -71,10 +71,10 @@ A.B.M. Mahmudul Hasan (Soumik)
 📧 Email: soumikhasan000@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/a-b-m-mahmudul-hasan-37907133b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
----
 
-## 📜 License
+
+📜 License
 This project is created for **educational and portfolio** purposes.  
 All rights of the Shohoz.com website belong to their respective owners.
 
----
+
